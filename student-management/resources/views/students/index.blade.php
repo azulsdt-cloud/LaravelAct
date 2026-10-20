@@ -6,8 +6,7 @@
 mb-3"> 
     <h2>Student List</h2> 
  
-    <a href="{{ route('students.create') }}" class="btn btn
-primary"> 
+    <a href="{{ route('students.create') }}" class="btn btn-primary"> 
         Add Student 
     </a> 
 </div>
