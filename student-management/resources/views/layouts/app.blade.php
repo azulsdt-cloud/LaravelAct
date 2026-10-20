@@ -13,7 +13,7 @@ href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" r
     <nav class="navbar navbar-dark bg-dark">
         <div class="container">
             <a class="navbar-brand" href="{{route('students.index') }}">
-                Stident Management System
+                Student Management System
             </a>
         </div>
     </nav>
